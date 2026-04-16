@@ -1,5 +1,5 @@
 # dependencies
-asyncio==3.4.3
+asyncio==4.0.0
 beautifulsoup4==4.12.2
 colorama==0.4.6
 duckduckgo_search==3.8.4
